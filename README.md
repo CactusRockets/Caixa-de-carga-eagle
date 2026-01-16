@@ -22,6 +22,8 @@ O sistema eletrônico da caixa de carregamento é propositalmente simples, robus
   <img width="600" alt="Esquemático da caixa de carregamento" src="https://github.com/user-attachments/assets/a3885ca0-ed1c-46cd-8aa6-1b9f2425fa75" />
 </p>
 
+> **OBS.:** Os arquivos da placa podem ser abertos utilizando o software **Autodesk Eagle**.
+
 ## Projeto Mecânico (CAD)
 
 <p align="center">
